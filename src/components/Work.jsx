@@ -5,7 +5,7 @@ import hospitalImg from '../assets/3.jpg'
 import tower2Img from '../assets/4.jpg'
 import renovation2Img from '../assets/5.jpg'
 import planningImg from '../assets/6.jpg'
-import WorkImages from '../layout/workImages'
+import WorkImages from '../layout/WorkImages'
 
 
 
